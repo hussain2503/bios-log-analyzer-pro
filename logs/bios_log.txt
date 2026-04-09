@@ -1,0 +1,7 @@
+[INFO] System boot start
+[DEBUG] Initializing hardware
+[WARNING] Memory training delay detected
+[ERROR] PCI device not responding
+[INFO] Boot device found
+[CRITICAL] CPU thermal shutdown triggered
+[INFO] System halted

@@ -5,3 +5,4 @@
 [INFO] Boot device found
 [CRITICAL] CPU thermal shutdown triggered
 [INFO] System halted
+[ERROR] Boot failed due to timeout
